@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    justify-content: center;
+    background-color: #d9e6f1;
+}
+ .subbg{
+    height: 350px;
+    width: 200px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+ }
+ img{
+    width: auto;
+    height: 200px;
+    border-radius: 10px;
+ }
+
