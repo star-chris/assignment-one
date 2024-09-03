@@ -4,19 +4,35 @@ body{
     height: 100%;
     margin: 0;
     justify-content: center;
-    background-color: #d9e6f1;
+    background-color: #c5dcec;
 }
+
+.bg{
+    padding: 100px;
+}
+
  .subbg{
-    height: 350px;
-    width: 200px;
+    height: 280px;
+    width: 160px;
     background-color: white;
-    padding: 20px;
+    padding: 10px;
     border-radius: 15px;
     text-align: center;
  }
  img{
-    width: auto;
-    height: 200px;
+    width: 160px;
+    height: 160px;
     border-radius: 10px;
  }
 
+h4{
+    margin-top: 15px;
+    font-size: 13px;
+    color: black;
+}
+
+p{
+    margin-top: 0px;
+    font-size: 10px;
+    color: rgb(176, 181, 187);
+}
